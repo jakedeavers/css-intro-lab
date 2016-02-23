@@ -9,7 +9,10 @@ body {
   line-height: 1.5;
   color: #606c71;
   text-align: center;
-  background-color: f30;
+}
+
+#helloWorld {
+
 }
 
 .container {
@@ -21,6 +24,10 @@ body {
   padding: 1rem 2rem;
   text-align: left;
   background-color: #eee;
+}
+
+.container .page-header{
+background-color: yellow;
 }
 
 section {
